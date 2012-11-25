@@ -1,6 +1,6 @@
 
-From Python Import Conference - Contributors
-============================================
+Contributors
+============
 
 Without the following people, both contributors and those who helped build past
 events, this guide would not be possible. Consider saying thank you.
