@@ -283,3 +283,8 @@ epub_copyright = u'2012, Jesse Noller'
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
+
+# Activate the theme.
+sys.path.append(os.path.abspath('_themes'))
+html_theme_path = ['_themes']
+html_theme = 'bootstrap'
